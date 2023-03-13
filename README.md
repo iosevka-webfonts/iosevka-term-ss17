@@ -1,4 +1,4 @@
-# Iosevka Term SS17 WebFont 20.0.0
+# Iosevka Term SS17 WebFont 21.0.0
 
 ## How to use
 
